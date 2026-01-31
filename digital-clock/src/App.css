@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.clock-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #282c34;
+}
+
+.clock{
+  font-size: 4rem;
+  color: #61dafb;
+  font-family: 'Courier New', Courier, monospace;
+  background: #20232a;
+  padding: 20px 40px;
+  border-radius: 10px;
+}
