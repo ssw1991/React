@@ -20,8 +20,13 @@ function ProjectList(){
             )
         },
         { 
-            name: "Blog Platform", 
-            description: "This is a placeholder"
+            name: "Monte Carlo Implementation in CPP", 
+            description:
+            ( 
+                <>
+                This <a href="https://github.com/ssw1991/MonteCarlo-CPP" className="text-blue-500 hover:underline font-semibold">project</a> implements a Monte Carlo simulation in C++. While the example is finance-focused, the core goal is a reusable Monte Carlo framework for estimating integrals. The simulation requires a stochastic differential equation, a random number generator, and a finite‑difference scheme. Exotic option pricing is supported by averaging payoffs with an activation function.
+                </>
+            )
         },
         { 
             name: "E-commerce Site", 
