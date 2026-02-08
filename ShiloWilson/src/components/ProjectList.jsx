@@ -11,8 +11,13 @@ function ProjectList(){
             )
         },
         { 
-            name: "Personal Finance Dashboard", 
-            description: "This is a placeholder"
+            name: "Dockerized Spark Standalone Cluster", 
+            description: 
+            (
+                <>
+                In 2019, a class project required Apache Spark, and I struggled with local installation. Later, while experimenting with containerization, I created a Dockerized Spark standalone cluster to make setup reproducible and fast. This <a href="https://github.com/ssw1991/spark-standalone-cluster/tree/main" className="text-blue-500 hover:underline font-semibold">project</a> builds on another developer’s repository (linked with full attribution). It removes the initial friction of configuring a local Spark cluster.
+                </>
+            )
         },
         { 
             name: "Blog Platform", 
