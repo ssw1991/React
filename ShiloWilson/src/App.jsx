@@ -20,7 +20,7 @@ function App() {
       <header className="sticky top-0 z-40 bg-blue-100 backdrop-blur-md shadow-sm">
         <div className="max-w-5xl mx-auto px-6 py-3 flex flex-col md:flex-row items-center justify-between gap-3">
           <div>
-            
+
           </div>
           <Header />
           <nav aria-label="Primary" className="w-full md:w-auto">
@@ -35,7 +35,7 @@ function App() {
         </div>
       </header>
 
-      <main className="flex-grow w-full flex items-center justify-center py-20 px-4">
+      <main className="flex-grow w-full flex items-center justify-center py-20 px-4 pt-10">
         <div className="w-full mx-auto py-20">
           <div className="w-full flex justify-center">
             <div className="text-center w-full max-w-5xl">

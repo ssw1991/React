@@ -6,7 +6,7 @@ function ProjectList(){
             name: "This Website", 
             description: (
                 <>
-                    A <a href="https://react.dev/" className="text-blue-500 hover:underline font-semibold">React</a>-implemented portfolio showcasing my technical growth. Features a full portfolio, professional blogs on math, finance, and technology, plus a content management system for curating interesting resources and insights.
+                    A <a href="https://react.dev/" className="text-blue-500 hover:underline font-semibold">React</a>-implemented portfolio showcasing my technical growth. While a work in progress, intended to feature a full portfolio, professional blogs on math, finance, and technology, plus a content management system for curating interesting resources and insights.
                 </>
             )
         },
