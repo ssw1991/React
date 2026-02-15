@@ -28,22 +28,7 @@ function ProjectList(){
                 </>
             )
         },
-        { 
-            name: "E-commerce Site", 
-            description: "This is a placeholder"
-        },
-        {
-            name: "Task Management App",
-            description: "This is a placeholder"
-        },
-        {
-            name: "Social Media Integration Tool",
-            description: "This is a placeholder"
-        },
-        {
-            name: "Data Visualization Dashboard",
-            description: "This is a placeholder"
-        }
+    
     ];
     
     return(
